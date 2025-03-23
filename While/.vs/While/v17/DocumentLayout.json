@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28BD6438-8742-4D26-975D-13F470463E16}|While\\While.vcxproj|C:\\cplusworks\\While\\While\\Forex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28BD6438-8742-4D26-975D-13F470463E16}|While\\While.vcxproj|solutionrelative:While\\Forex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BD6438-8742-4D26-975D-13F470463E16}|While\\While.vcxproj|C:\\cplusworks\\While\\While\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28BD6438-8742-4D26-975D-13F470463E16}|While\\While.vcxproj|solutionrelative:While\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BD6438-8742-4D26-975D-13F470463E16}|While\\While.vcxproj|C:\\cplusworks\\While\\While\\Whileex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28BD6438-8742-4D26-975D-13F470463E16}|While\\While.vcxproj|solutionrelative:While\\Whileex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BD6438-8742-4D26-975D-13F470463E16}|While\\While.vcxproj|C:\\cplusworks\\While\\While\\Whilex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28BD6438-8742-4D26-975D-13F470463E16}|While\\While.vcxproj|solutionrelative:While\\Whilex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Forex1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\While\\While\\Forex1.cpp",
+              "RelativeDocumentMoniker": "While\\Forex1.cpp",
+              "ToolTip": "C:\\cplusworks\\While\\While\\Forex1.cpp",
+              "RelativeToolTip": "While\\Forex1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:43:30.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyRepeat.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\While\\While\\KeyRepeat.cpp",
+              "RelativeDocumentMoniker": "While\\KeyRepeat.cpp",
+              "ToolTip": "C:\\cplusworks\\While\\While\\KeyRepeat.cpp",
+              "RelativeToolTip": "While\\KeyRepeat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:27:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Whileex2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\While\\While\\Whileex2.cpp",
+              "RelativeDocumentMoniker": "While\\Whileex2.cpp",
+              "ToolTip": "C:\\cplusworks\\While\\While\\Whileex2.cpp",
+              "RelativeToolTip": "While\\Whileex2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:18:38.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Whilex1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\While\\While\\Whilex1.cpp",
+              "RelativeDocumentMoniker": "While\\Whilex1.cpp",
+              "ToolTip": "C:\\cplusworks\\While\\While\\Whilex1.cpp",
+              "RelativeToolTip": "While\\Whilex1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T01:09:02.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

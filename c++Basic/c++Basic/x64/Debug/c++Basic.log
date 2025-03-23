@@ -1,0 +1,6 @@
+﻿  IfEx.cpp
+C:\cplusworks\c++Basic\c++Basic\IfEx.cpp(10,9): error C2065: 'age': 선언되지 않은 식별자입니다.
+C:\cplusworks\c++Basic\c++Basic\IfEx.cpp(13,6): error C2065: 'age': 선언되지 않은 식별자입니다.
+C:\cplusworks\c++Basic\c++Basic\IfEx.cpp(18,26): error C2065: 'age': 선언되지 않은 식별자입니다.
+C:\cplusworks\c++Basic\c++Basic\IfEx.cpp(22,6): error C2065: 'age': 선언되지 않은 식별자입니다.
+C:\cplusworks\c++Basic\c++Basic\IfEx.cpp(31,26): error C2065: 'age': 선언되지 않은 식별자입니다.
